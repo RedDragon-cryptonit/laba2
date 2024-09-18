@@ -6,8 +6,7 @@
 
 using namespace std;
 
-int main(){
-
+int main() {
   double a = 5.54;
   double b = 3.93;
   double y = 1.45;
